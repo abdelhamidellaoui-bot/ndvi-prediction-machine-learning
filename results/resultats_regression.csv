@@ -1,0 +1,5 @@
+Modèle,R2,RMSE,MAE
+Linear Regression,0.9331,0.0621,0.0485
+Random Forest,0.9665,0.044,0.0319
+SVR,0.9091,0.0724,0.0597
+Random Forest (GridSearchCV),0.9669,0.0436,0.0318
